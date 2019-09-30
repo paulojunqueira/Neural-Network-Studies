@@ -4,4 +4,3 @@ A Repository for Neural Network Projects
 
 ## Perceptron  
 
-## Adaline
