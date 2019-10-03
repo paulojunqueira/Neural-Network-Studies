@@ -31,7 +31,7 @@ names(data)<-c("X1","X2","Class")
 plot(data$X1,data$X2,col=data$Class+2, xlab = "X1",ylab= "X2",xlim=c(0,6),ylim = c(0,6))
 ```
 
-![](Perceptron_files/figure-markdown_github/unnamed-chunk-1-1.png)
+![](Figure/data.png)
 
 After ploting the data, we will split it into a test and train sets. Here I choose 70% for training and 30% for testing.
 
@@ -139,7 +139,7 @@ xy_dB<-decisionBoundary(model$w)
 lines(xy_dB[,1],xy_dB[,2],lwd = 2,col="red")
 ```
 
-![](Perceptron_files/figure-markdown_github/unnamed-chunk-5-1.png)
+![](Figure/classificated.png)
 
 References
 ----------
