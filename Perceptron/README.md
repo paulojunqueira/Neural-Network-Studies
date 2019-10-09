@@ -52,7 +52,11 @@ y_test <- data[var_amostras,3]
 y_train <- data[-var_amostras,3]
 ```
 
-Next, the Perceptron`s code. It was used a sign function as a activation function.
+Next, the Perceptron`s code. It was used a sign function as a activation function. The parameters are:
+x: The data
+y: Labels
+eta: The learning rate
+maxepoch: The maximum number of epochs
 
 ``` r
 #Perceptron
