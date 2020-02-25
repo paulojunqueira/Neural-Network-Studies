@@ -3,7 +3,7 @@
 A Repository for Neural Network Projects
 
 ## Perceptron  
-It was implemented a basic perceptron code. It is available a simple experiment in R and a python version.
+It was implemented a perceptron code. It is available a simple experiment in R and a python version.
 
 Future updates...
 ## Adaline
