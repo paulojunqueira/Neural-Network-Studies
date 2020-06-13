@@ -149,5 +149,4 @@ lines(xy_dB[,1],xy_dB[,2],lwd = 2,col="red")
 
 ![](Figure/classificated.png)
 
-References
-----------
+
