@@ -1,2 +1,3 @@
-# Multilayer Perceptron
-Implementing a MLP using python to solve a synthetic regression problem 
+# Multilayer Perceptron MLP
+This is a implementation of a MLP in python. It was explored in a syntheic regression problem 
+It was developed using  Numpy module functions. 
