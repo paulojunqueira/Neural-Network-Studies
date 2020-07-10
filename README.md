@@ -8,10 +8,4 @@ It was implemented a perceptron code. It is available a simple experiment in R a
 ## Multilayer Perceptron (MLP)  
 Added a Basic implementation of a MLP in Python for a synthetic Regression problem 
 
-## Adaline
-Future...
-
-## Radial Basis Function Network (RBF)
-Future...
-
 
